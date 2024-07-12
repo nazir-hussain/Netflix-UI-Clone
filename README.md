@@ -1,7 +1,7 @@
 # Netflix-Clone
 
 ## Key Points: 
-- Developed a fully responsive Netflix clone using HTML and CSS, replicating the official website's design and layout across multiple pages. 🎥🌐
+- Developed a fully responsive Netflix-UI clone using HTML and CSS, replicating the official website's design and layout across multiple pages. 🎥🌐
   
 - Utilized advanced CSS concepts, like Flexbox, Grid layout, and Media Queries, for a seamless and dynamic user experience on various devices and screen sizes. 🎨💻📱
   
